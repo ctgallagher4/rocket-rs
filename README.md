@@ -1,6 +1,8 @@
 # Rocket
 
-![Rocket](/assets/rocket.mp4)
+
+https://github.com/user-attachments/assets/9c63d649-51ff-4f38-9c90-3f2baacc0d06
+
 
 Rocket is a simpler version of the hit game asteroids. Its purpose is to help people learn how to structure a Rust program in a fun way. Please feel free to reuse and/or modify Rocket however you like. This is not how you would structure an actual video game for best performance, but rather a simpler, object-oriented approach that is beginner friendly. For one way to structure a more advanced program, potentially with multi-threading, see [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system) on Wikipedia. For more information about the math involved, you can see my [website](https://ctgallagher4.github.io) under the blog section.
 
